@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:21:52:56 -0300] "GET /biblioteca-web HTTP/1.1" 302 - http-bio-8081-exec-2 0
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:21:52:57 -0300] "GET /biblioteca-web/ HTTP/1.1" 200 6645 http-bio-8081-exec-3 848
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:21:53:21 -0300] "GET /biblioteca-web/materiales.jsp HTTP/1.1" 500 1537 http-bio-8081-exec-4 198
@@ -51,3 +52,6 @@
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:22:10:02 -0300] "GET /biblioteca-web/agregar-material.jsp HTTP/1.1" 200 9528 http-bio-8081-exec-2 92
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:22:10:16 -0300] "POST /biblioteca-web/materiales HTTP/1.1" 404 1537 http-bio-8081-exec-2 3
 0:0:0:0:0:0:0:1 - - [09/Oct/2025:22:10:22 -0300] "GET /biblioteca-web/index.jsp HTTP/1.1" 200 6645 http-bio-8081-exec-2 4
+=======
+0:0:0:0:0:0:0:1 - - [09/Oct/2025:22:37:48 -0300] "GET /biblioteca-web/listarusuarios.jsp HTTP/1.1" 404 5 http-bio-8081-exec-1 1119
+>>>>>>> b7aa0ba5f0fa78bc0b4d66ebfb52051d50089c78
