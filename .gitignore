@@ -1,0 +1,10 @@
+# Ignorar archivos de compilación Java
+*.class
+
+# Ignorar carpetas de salida comunes
+/target/
+/build/
+
+# Ignorar archivo de configuración de persistencia
+docker/.env
+src/main/java/META-INF/Persistence.xml
